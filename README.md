@@ -109,7 +109,10 @@
 **Побудова операційної схеми для обчислення виразу D = 0,5·A·B – C**
 
 Рис. 1. Операційна схема 1 для обчислення заданої функції
+
 ![](Operational-diagram-for-calculating-a-given-function.png)
 
+
 Рис. 2. Операційна схема 2 для обчислення заданої функції
+
 ![](Operational-diagram-for-calculating-a-given-function-2.png)
